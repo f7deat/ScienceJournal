@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Science Journal of Hai Phong University
 
-You can use the [editor on GitHub](https://github.com/f7deat/ScienceJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Cài đặt
+Backup `Science.bak`
+Đổi chuỗi kết nối tại `Web.config`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Chức năng
+1. Lưu trữ bài báo
+2. Tin tức
+3. Tìm kiếm
+4. Thống kê
+...
 
-### Markdown
+### Quyền
+1. Thành viên
+2. Biên tập viên
+3. Tổng Biên tập
+4. Quản trị viên
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Công cụ
+1. Visual Studio 2017
+2. SQL Server 2016
 
-```markdown
-Syntax highlighted code block
+### Công Nghệ
+1. ASP.NET MVC 5
+2. Entity Framwork v6.1.3
+3. LinQ, ADO.NET, Database First
 
-# Header 1
-## Header 2
-### Header 3
+### Vendor
 
-- Bulleted
-- List
+- [Gentelella](https://github.com/krzysiekpiasecki/Gentelella)
+- [Select2](https://select2.org)
+- [Chartjs](http://www.chartjs.org)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/f7deat/ScienceJournal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thực hiện
+ [Đinh Công Tân](https://www.facebook.com/tan.dct)
+### Giảng viên hướng dẫn
+Thầy [Dac-Nhuong Le](https://www.facebook.com/nhuong.ledac)
